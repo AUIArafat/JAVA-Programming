@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 //import for Scanner and other utility  classes*/
 import java.util.*;
 
-class TestClass {
+public class CountCarryProblem {
     public static void main(String []args){
 		int num1 = 0, num2 = 0;
 		int carry,count;
